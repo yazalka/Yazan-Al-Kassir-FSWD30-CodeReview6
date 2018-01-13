@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+body {
+
+	background-color: whitesmoke;
+
+}
+
+
+img {
+
+	width: 100%;
+	height: 200px;
+	border-radius: 10px;
+
+}
+
+.book_img , .movie_img , .music_img {
+
+	margin: 0 auto;
+
+}
+
+.book_info , .movie_info , .music_info {
+
+	text-align: center;
+
+}
+
+.movie-title h2 , .book-title h2 , .music-title h2 {
+
+	margin-top: 20px;
+	margin-left: 30px;
+	font-style: italic;
+
+}
+
+.movie , .music ,.book {
+
+	margin-top: 20px;
+
+}
+
+.movie-title , .book-title, .music-title {
+	
+	margin: 0px 0px 0px 1px;
+	background-color: yellowgreen;
+	
+}
+
+hr {
+
+	border: 0.4px solid black;
+	background-color: black;
+}
+
+p {
+
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+h4 {
+	
+	margin-top: 10px;
+	font-family: 'Muli', sans-serif;
+
+}
